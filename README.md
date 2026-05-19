@@ -28,16 +28,14 @@ Scraped and analyzed World Series of Poker historical results to surface pattern
 
 ### 🃏 Poker Project 2 *(coming soon)*
 
-> ⚠️ **Temporarily unavailable** — this repo ran into a git commit conflict during an interactive rebase that corrupted the remote branch history. I’m currently working through the fix.
->
-> **Check back on May 20, 2026** — everything will be restored and live by then. Apologies for the inconvenience!
+> ⚠️ **Temporarily unavailable** —  **Check back on May 20, 2026** — everything will be restored and live by then. Apologies for the inconvenience!
 
 ---
 
 ## 📫 Contact
 
 - **GitHub:** [github.com/huntbrian1](https://github.com/huntbrian1)
-- **Email:** *Available on request*
+- **Email:** *bhunt11@elon.edu*
 
 ---
 
