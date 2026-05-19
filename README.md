@@ -26,9 +26,7 @@ Scraped and analyzed World Series of Poker historical results to surface pattern
 
 ---
 
-### 🃏 Poker Project 2 *(coming soon)*
 
-> ⚠️ **Temporarily unavailable** —  **Check back on May 20, 2026** — everything will be restored and live by then. Apologies for the inconvenience!
 
 ---
 
