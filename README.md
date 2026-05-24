@@ -22,7 +22,7 @@ Analyzed the U.S. Department of Education's College Scorecard dataset to predict
 ### ♠️ [WSOP Poker Analytics](https://github.com/huntbrian1/WSOPProject)
 **Python · Data Wrangling · Exploratory Data Analysis · Visualization**
 
-Scraped and analyzed World Series of Poker historical results to surface patterns in player performance, cashing frequency, and tournament-level trends. Designed visualizations to communicate findings on what separates consistent winners from one-time cashers.
+Analyzed World Series of Poker historical results to surface patterns in player performance, cashing frequency, and tournament-level trends. Designed visualizations to communicate findings on what separates consistent winners from one-time cashers.
 
 ---
 
