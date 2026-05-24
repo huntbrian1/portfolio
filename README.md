@@ -26,7 +26,7 @@ Scraped and analyzed World Series of Poker historical results to surface pattern
 
 ---
 
-### 🃏 [PokerProject2: Commercial Behavioral Analytics from Gameplay Logs](https://github.com/huntbrian1/pokerproject)
+### 🃏 [Poker Platform Analytics: Commercial Behavioral Insights from Gameplay Logs](https://github.com/huntbrian1/pokerproject)
 **Python · Gameplay Log Parsing · Behavioral Analytics · Product Analytics**
 
 Analyzes PHH poker hand-history logs as a commercial analytics case study. Parsed and audited 10,088 single-hand PHH files to build action-based KPIs around engagement depth, high-commitment action rate, resolution path, lifecycle progression, and outcome intensity. Reframes poker hand histories as a commercial/product analytics workflow rather than gambling hobby content — framed for gaming, sportsbook, fantasy, marketplace, and product analytics roles.
