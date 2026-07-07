@@ -19,6 +19,13 @@ Analyzed the U.S. Department of Education's College Scorecard dataset to predict
 
 ---
 
+### 🧠 [Behavioral Health County Market Opportunity](https://app.hex.tech/019e4d33-0ab5-7000-8cc1-1feb8c334cb6/hex/Behavioral-Health-County-Market-Opportunity-033N9XwRKmGmuOhQrRWwji/draft/logic?hideEmptyStatePromptBar=true&view=app&dialog=publish)
+**Hex · Python · SQL · Public Mental Health Data · Market Sizing**
+
+Built in Hex using public mental health and county-level demographic data to identify high-opportunity markets for a telehealth company offering outpatient mental health appointments. Scored and ranked counties by unmet need, provider shortage, and population accessibility to surface actionable geographic expansion targets for a behavioral health business development use case.
+
+---
+
 ### ☕ [Coffee & Beverage Category Strategy](https://github.com/huntbrian1/coffee-beverage-category-strategy)
 **Python · SQL · SQLite · Category Management · CPG Analytics**
 
