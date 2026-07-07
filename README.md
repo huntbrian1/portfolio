@@ -47,10 +47,10 @@ Synthetic CPG coffee and beverage category strategy case study built for commerc
 
 ---
 
-### ♠️ [WSOP Poker Analytics](https://github.com/huntbrian1/WSOPProject)
-**Python · Data Wrangling · Exploratory Data Analysis · Visualization**
+### ♠️ [Tournament Economics & Signal Extraction: WSOP Main Event Analytics](https://github.com/huntbrian1/WSOPProject)
+**Python · Tournament Economics · Behavioral Analytics · Monte Carlo Simulation · Visualization**
 
-Analyzed World Series of Poker historical results to surface patterns in player performance, cashing frequency, and tournament-level trends. Designed visualizations to communicate findings on what separates consistent winners from one-time cashers.
+Used WSOP Main Event data (1971–2025) to analyze how scale changes payout economics, how fee drag functions as structural friction, and how slowly skill signal emerges under high variance — questions that generalize to marketplace platforms, performance evaluation, and incentive design. Quantified winner share compression, estimated rake as a take-rate analogue, and simulated a 5,000-player cohort to measure the relationship between skill percentile and cash rate (r = 0.175).
 
 ---
 
