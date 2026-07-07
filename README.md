@@ -26,7 +26,7 @@ Built in Hex using public mental health and county-level demographic data to ide
 
 ---
 
-### 📊 [Retail Merchandise Planning FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
+### 📊 [Retail Merchandise Planning & FP&A Forecasting Model](https://github.com/huntbrian1/retail-merchandise-planning-fpa-forecasting-model)
 **SQL · Excel · FP&A · Open-to-Buy · Retail Planning**
 
 End-to-end retail merchandise planning and FP&A forecasting model built on the TheLook eCommerce dataset. Combines SQL-based data extraction with a structured Open-to-Buy Excel workbook to model inventory planning, sales forecasting, and budget vs. actuals tracking — framed as a commercial FP&A deliverable for retail and e-commerce planning roles.
