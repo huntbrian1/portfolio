@@ -52,7 +52,7 @@ Analyzed synthetic outreach performance data for an outpatient telehealth compan
 ---
 
 ### ☕ [Coffee & Beverage Category Strategy](https://github.com/huntbrian1/coffee-beverage-category-strategy)
-**Python · SQL · SQLite · Category Management · CPG Analytics**
+**Python · SQL · SQLite · Excel · Category Management · CPG Analytics**
 
 Synthetic CPG coffee and beverage category strategy case study built for commercial analytics and category management portfolio work. Analyzed category and channel growth, brand share shifts, promo lift vs. margin tradeoff, and customer-SKU opportunity scoring across a 2.5-year synthetic dataset. Delivered a stakeholder-ready Excel workbook, prioritized action plan, and full case study narrative alongside automated SQL/Python pipelines.
 
