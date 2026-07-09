@@ -12,12 +12,12 @@
 
 ## 📂 Projects
 
-### 🚨 Public Safety Service Demand Intelligence Platform
-**PySpark · SQLite · MongoDB · R · Streamlit · Operational Analytics · Big Data**
+### 🚨 [Public Safety Service Demand Intelligence Platform](https://github.com/huntbrian1/public-safety-workload-command-center)
+**PySpark · Python · Streamlit · Plotly · Big Data · Operational Analytics**
 
-End-to-end operational analytics platform built on large-scale public safety dispatch data. Ingests and processes multi-source records across PySpark, SQLite, and MongoDB to model service demand patterns, resource utilization, and geographic hotspots. Delivers an interactive Streamlit dashboard surfacing real-time demand intelligence for operational planning and resource allocation decisions.
+Full-scale public safety analytics platform processing 6.47M cleaned service events into 3.95M zone-hour planning records via PySpark. Consolidated service-event, weather, calendar, and geographic metadata to surface workload timing, beat coverage, demand rhythm, and service-category mix. Built a live Streamlit command-center dashboard with mapped beat coverage across 55 Seattle GeoJSON polygons, zone-hour heatmaps, and resource-planning signals. Includes KMeans zone segmentation and Random Forest / MLP model comparison for high-demand period classification.
 
-> 🔗 *Repository link coming soon*
+> 🔗 [Live Dashboard](https://public-safety-workload-command-center-fqbwj4qintqr5ueqsfdbfm.streamlit.app/)
 
 ---
 
