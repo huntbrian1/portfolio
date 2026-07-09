@@ -47,7 +47,14 @@ Built in Hex using public mental health and county-level demographic data to ide
 ### 📞 [GTM Performance: Outreach Efficiency & Account Prioritization](https://app.hex.tech/019e4d33-0ab5-7000-8cc1-1feb8c334cb6/app/GTM-Performance-Outreach-Efficiency-Account-Prioritization-033ZCobLrURfRZH1UJJl8u/latest)
 **Hex · SQL · Python · Monte Carlo Simulation · GTM Analytics · CRM Analytics**
 
-Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
+Analyzed synthetic outreach performance data for an outpatient telehealth company's clinical outreach/sales team, tracking referral yield, activity mix, and account concentration across a 12-month period. Surfaced a yield-not-volume problem — referral yield collapsed despite growing activity counts — and identified the top 10% of accounts driving 64.9% of referrals to inform account prioritization strategy. Concluded with Monte Carlo simulations modeling the incremental referral impact of CRM tooling improvements to reduce rep logging friction.
+
+---
+
+### ✈️ [Flight Disruption Risk Model](https://github.com/huntbrian1/flight-disruption-risk-model)
+**Python · Random Forest · scikit-learn · BTS/DOT Public Data · Operational Analytics**
+
+Built a three-season flight disruption risk model on 5M+ BTS on-time performance records across matched November–January holiday/winter operating windows (2023–2024, 2024–2025, 2025–2026). Isolated recurring holiday/winter pressure from one-year disruption spikes, identified late-day departure blocks as a proxy for accumulated network stress, and compared Base, Holiday-Aware, and Season-Calibrated Random Forest models. The top 10% highest-scored flights realized a disruption rate of ~38.6% vs. a ~21.2% baseline — a 1.82x lift — demonstrating the model's ability to concentrate risk into a defensible operational watchlist.
 
 ---
 
