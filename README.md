@@ -28,12 +28,10 @@ End-to-end retail merchandise planning and FP&A forecasting model built on the T
 
 ---
 
-### 📈 Salesforce CRM Dashboard & Revenue Operations Analytics
-**Salesforce · CRM Analytics · Python · SQL · Dashboard Design · Revenue Ops**
+### 📈 [Salesforce + HubSpot RevOps Health Dashboard](https://github.com/huntbrian1/salesforce-hubspot-revops-dashboard)
+**Salesforce · HubSpot · Power BI · SQL · Python · Dashboarding · Revenue Operations**
 
-Revenue operations analytics project built around Salesforce CRM data, translating pipeline activity, account health, and rep performance metrics into an executive-facing dashboard. Maps deal velocity, conversion rates, and forecast accuracy to support territory planning, quota setting, and go-to-market prioritization decisions.
-
-> 🔗 *Repository link coming soon*
+Synthetic Revenue Operations project modeling a B2B company using HubSpot for marketing automation and Salesforce for sales execution. Built full cross-system datasets (4,200 leads, 3,600 contacts, 1,650 opportunities, 24,000 email events, 1,180 sync error records) and diagnosed realistic CRM health issues: lifecycle gaps, pipeline hygiene, duplicate risk, stale opportunities, and field ownership conflicts. Delivered a multi-page Power BI dashboard, Salesforce screenshot, HubSpot dashboard, starter SQL/Python analysis, and randomized upload-ready CRM samples for free/developer accounts.
 
 ---
 
